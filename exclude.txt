@@ -1,0 +1,3 @@
+stg-use1
+azstg-use-202009
+azpipelines-stg-use
